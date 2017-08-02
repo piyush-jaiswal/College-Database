@@ -1,2 +1,2 @@
 # College-Events-Database
-Database for various events being held in the university
+This project involved designing a database for the various events held at the university level. Currently, this is specialized for one particular university. For the database structure, ```ER_diagram.png``` and the ```final_schema.png``` can be referred to. The rationale behind the normalization of the database can be found in ```database_normalization.docx``` and the database description including its various attributes can be found in ```description.docx```.
